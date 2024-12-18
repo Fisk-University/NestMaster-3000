@@ -170,7 +170,7 @@ amplify publish
 └── doc_002a.pdf
 ```
 
-#### Input Example: ZIP Archive
+#### Input Example 2: ZIP Archive
 ```
 archive.zip
 ├── project_data.csv
@@ -180,7 +180,7 @@ archive.zip
 └── doc_002a.pdf
 ```
 
-#### Output Structure
+#### Output Structure for Both
 ```
 organized_files_20241218_120530.zip
 ├── cleaned.csv
